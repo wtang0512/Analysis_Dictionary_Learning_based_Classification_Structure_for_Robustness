@@ -1,7 +1,7 @@
 # Analysis Dictionary Learning Based Classification: Structure for Robustness
 This repository contains the demo and MATLAB codes for our IEEE TIP paper: "[Analysis Dictionary Learning Based Classification: Structure for Robustness](https://arxiv.org/pdf/1807.04899.pdf)" by [Wen Tang](https://research.ece.ncsu.edu/vissta/wen-tang/), Ashkan Panahi, Hamid Krim and Liyi Dai. The Algorithm proofs can be found in the [supplementary material](https://www.researchgate.net/publication/334048407_bare_conf_compsocSupppdf).
 
-This is also a journal version of the conference paper "[Structured Analysis Dictionary Learning for Image Classification](https://arxiv.org/abs/1805.00597)", which is published in ICASSP 2018.
+This is also the journal version of the conference paper "[Structured Analysis Dictionary Learning for Image Classification](https://arxiv.org/abs/1805.00597)", which is published in ICASSP 2018.
 
 ### Citation
 If you think our projects are useful, please consider citing them:
