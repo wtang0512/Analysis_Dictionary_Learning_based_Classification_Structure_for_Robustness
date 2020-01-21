@@ -2,7 +2,7 @@
 function [D,U,W,Q,T]=SADL(X,H,L,anum,maxIter,lambda3,gamma1,gamma2,theta,delta1,delta2,a)
 % min_{D,U,W,Q,epsilon1,epsilon2} 1/2||DX-U||_2^2+theta||U||_1
 %            +rho1/2||epsilon1||_2^2+rho2/2||epsilon1||_2^2
-%            +delat1/2||epsilon1||_2^2+delta2/2||epsilon1||_2^2
+%            +delat1/2||Q||_2^2+delta2/2||W||_2^2
 %            +lambda4/2||D||_2^2
 %       s.t. H=QU+epsilon1
 %            L=W(QU)+epsilon2
